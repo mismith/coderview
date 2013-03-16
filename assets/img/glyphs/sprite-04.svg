@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="96.001px" height="96px" viewBox="0 0 96.001 96" enable-background="new 0 0 96.001 96" xml:space="preserve">
+<g id="New_Symbol_83">
+</g>
+<g id="fork">
+	<rect x="8" y="23" fill="#FFFFFF" width="64" height="10"/>
+	<path fill="#FFFFFF" d="M72,62c0,0-7.998,0-10.58,0c-13.414,0-20.418-39-39.598-39C14.506,23,8,23,8,23v10c0,0,6.506,0,13.822,0
+		c12.195,0,20.301,40,39.598,40C64.002,73,72,73,72,73V62z"/>
+	<polyline fill="#FFFFFF" points="71.75,84 87.951,67.81 71.75,51.598 	"/>
+	<polyline fill="#FFFFFF" points="71.75,44.402 87.951,28.212 71.75,12 	"/>
+</g>
+<g id="share">
+</g>
+<g id="lock">
+</g>
+<g id="unlock">
+</g>
+<g id="trash">
+</g>
+</svg>

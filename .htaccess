@@ -1,0 +1,4 @@
+php_flag magic_quotes_gpc Off
+
+RewriteEngine On
+RewriteRule ^(?:b(\d+)/?)?(?:d(\d+))?/?$ index.php?&bin_id=$1&document_id=$2 [L,NC]
