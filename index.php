@@ -1,7 +1,7 @@
 <?php
 	session_start();
 	date_default_timezone_set('America/Edmonton');
-	require_once('../config.murray.php');
+	require_once('../config.php');
 	mysql_connect(DB_HOST,DB_USER,DB_PASS);
 	mysql_select_db(DB_PREFIX.'coderview');
 	
