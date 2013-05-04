@@ -245,7 +245,7 @@
 			<fieldset>
 				<label>
 					<input type="checkbox" id="sticky-tabs">
-					<span>Always Show Tabs</span>
+					<span>Sticky Tabs</span>
 				</label>
 			</fieldset>
 		</div>
